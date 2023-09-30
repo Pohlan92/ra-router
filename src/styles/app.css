@@ -1,0 +1,8 @@
+@import url('./reset.css');
+@import url('./menu.css');
+@import url('./postbook.css');
+@import url('./spinner.css');
+
+body {
+  word-break: break-word;
+}
